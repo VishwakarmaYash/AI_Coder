@@ -1,6 +1,6 @@
 # AI Coder
 
-AI Coder is an autonomous software engineering agent built with [LangGraph](https://github.com/langchain-ai/langgraph) and [Groq](https://groq.com/). It transforms high-level user prompts into fully functional code projects by orchestrating multiple specialized agents.
+AI Coder is an autonomous software engineering agent built with [LangGraph](https://github.com/langchain-ai/langgraph) and [Groq](https://groq.com/). It transforms high-level user prompts into fully functional code projects by orchestrating multiple specialized agents. This is a new project added to my profile.
 
 ## 🏗 Architecture
 
@@ -26,6 +26,9 @@ graph TD
 - **LLM**: Llama 3.3 70b (via [Groq](https://groq.com/))
 - **Language**: Python 3.11+
 - **Orchestration**: [LangChain](https://github.com/langchain-ai/langchain)
+- **Frontend**: React
+- **Backend**: Express
+- **Data**: Pandas
 
 ## 🚀 Getting Started
 
