@@ -26,9 +26,7 @@ graph TD
 - **LLM**: Llama 3.3 70b (via [Groq](https://groq.com/))
 - **Language**: Python 3.11+
 - **Orchestration**: [LangChain](https://github.com/langchain-ai/langchain)
-- **Frontend**: React
-- **Backend**: Express
-- **Data**: Pandas
+
 
 ## 🚀 Getting Started
 
